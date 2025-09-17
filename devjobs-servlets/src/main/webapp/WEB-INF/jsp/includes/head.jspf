@@ -2,6 +2,8 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="${pageContext.request.contextPath}/assets/favicon.svg" />
+<link rel="manifest" href="${pageContext.request.contextPath}/manifest.webmanifest">
+<meta name="theme-color" content="#4f46e5">
 
 <!-- Inter font -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
