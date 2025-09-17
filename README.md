@@ -1,5 +1,7 @@
 # DevJobs — GA7-220501096-AA2-EV02
 
+![CI](https://github.com/sergiosilva-dev/DevJobs-AA2-EV02/actions/workflows/maven.yml/badge.svg)
+
 Módulo web con **Servlets/JSP** (Tomcat 10 / Jakarta Servlet 6) para la evidencia **GA7-220501096-AA2-EV02** del SENA.
 
 ## Stack
