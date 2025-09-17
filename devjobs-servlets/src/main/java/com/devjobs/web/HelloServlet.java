@@ -37,6 +37,9 @@ public class HelloServlet extends HttpServlet {
         req.setAttribute("email", email);
         req.setAttribute("tech", tech);
 
+        resp.setCharacterEncoding("UTF-8");
+        resp.setContentType("text/html;charset=UTF-8");
+
         req.getRequestDispatcher("/result.jsp").forward(req, resp);
     }
 }
