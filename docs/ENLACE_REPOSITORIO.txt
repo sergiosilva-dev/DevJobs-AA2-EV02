@@ -1,0 +1,8 @@
+ENLACE AL REPOSITORIO
+
+Proyecto: DevJobs — GA7-220501096-AA2-EV02
+Repositorio (URL): https://github.com/sergiosilva-dev/DevJobs-AA2-EV02
+
+Instrucciones:
+1) Coloca este archivo dentro de la carpeta 'docs/' del proyecto con el nombre 'ENLACE_REPOSITORIO.txt'.
+2) Inclúyelo dentro del .zip de la entrega (NOMBREAPELLIDO_AA2_EV02.zip).
